@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<component name="MainScene" extends="Scene">
+    <script type="text/brightscript" uri="pkg:/components/MainScene.brs"/>
+    <children>
+        <Label
+            translation="[20,20]"
+            id="appHeader"
+            font="font:SmallBoldSystemFont"
+            color="0x617EFF"
+            text="BoilerPlate"
+        />
+        <Label
+            translation="[1080,20]"
+            id="copyHeader"
+            font="font:SmallSystemFont"
+            color="0x617EFF"
+            text="by Evan Rafuse"
+        />
+        <Label
+            translation="[1170,690]"
+            id="creditHeader"
+            font="font:SmallestSystemFont"
+            color="0x617EFF"
+            text="BoilerPlate"
+        />
+    </children>
+</component>
+
+<!-- By Evan Rafuse 2022 -->
+<!-- Photos from Unsplash 2022 -->

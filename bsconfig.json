@@ -1,0 +1,8 @@
+{
+  "files": [
+      "components/**/*",
+      "assets/**/**/*",
+      "source/**/*",
+      "manifest"
+  ]
+}
